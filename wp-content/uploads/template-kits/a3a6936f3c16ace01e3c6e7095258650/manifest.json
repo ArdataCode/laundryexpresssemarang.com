@@ -1,0 +1,1175 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Kiji - Houskeeping & Cleaning Services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form 2",
+            "screenshot": "screenshots\/contact-form-2.jpg",
+            "source": "templates\/contact-form-2.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/contact-form-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form",
+            "screenshot": "screenshots\/contact-form.jpg",
+            "source": "templates\/contact-form.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 404",
+            "screenshot": "screenshots\/page-404.jpg",
+            "source": "templates\/page-404.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/page-404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.jpg",
+            "source": "templates\/news.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Single",
+            "screenshot": "screenshots\/service-single.jpg",
+            "source": "templates\/service-single.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/service-single\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 2",
+            "screenshot": "screenshots\/homepage-2.jpg",
+            "source": "templates\/homepage-2.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/homepage-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.6.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.12",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.6.17",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        }
+    ],
+    "images": [
+        {
+            "filename": "elemen-5.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/elemen-5.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 11277,
+            "dimensions": [
+                653,
+                805
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-PQMG82E"
+        },
+        {
+            "filename": "logo-kiji.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/logo-kiji.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 1849,
+            "dimensions": [
+                127,
+                65
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-PQMG82E"
+        },
+        {
+            "filename": "hero-11-1.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/hero-11-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/page-404.json",
+                    "name": "Page 404"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 135672,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/basket-with-cleaning-products-on-blue-background-c-ZP6WTJS"
+        },
+        {
+            "filename": "icon-kiji-2.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/icon-kiji-2.png",
+            "templates": [
+                {
+                    "source": "templates\/page-404.json",
+                    "name": "Page 404"
+                }
+            ],
+            "filesize": 7284,
+            "dimensions": [
+                512,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-PQMG82E"
+        },
+        {
+            "filename": "hero-9.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/07\/hero-9-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/service-single.json",
+                    "name": "Service Single"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 117250,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-kit-detergents-napkins-sponges-gloves-of--QE3C3V7"
+        },
+        {
+            "filename": "elemen-6.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/elemen-6.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 8734,
+            "dimensions": [
+                527,
+                650
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-PQMG82E"
+        },
+        {
+            "filename": "team-4.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/team-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 50686,
+            "dimensions": [
+                500,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-young-housemaid-with-cleaning-tools--YX3CEAP"
+        },
+        {
+            "filename": "team-5.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/team-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 31295,
+            "dimensions": [
+                500,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-lady-dusting-table-PN2PRKW"
+        },
+        {
+            "filename": "team-6.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/team-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 46066,
+            "dimensions": [
+                500,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-housekeeper-woman-and-cleaning-equipment-in--G5LWAGC"
+        },
+        {
+            "filename": "elemen-1.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/elemen-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 5518,
+            "dimensions": [
+                400,
+                254
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-PQMG82E"
+        },
+        {
+            "filename": "hero-2.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/hero-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 214198,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/workers-of-cleaning-service-company-carrying-out-t-LPVP5X5"
+        },
+        {
+            "filename": "people-1-1.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/people-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 49281,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-four-business-colleagues-outside-offic-PQNSDR3"
+        },
+        {
+            "filename": "dummy-logo-3b-1.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/dummy-logo-3b-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 9054,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-2b-1.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/dummy-logo-2b-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 8136,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-4b-1.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/dummy-logo-4b-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 10134,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-1b-1.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/dummy-logo-1b-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 8551,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-6b-1.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/dummy-logo-6b-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 10119,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-5b-1.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/dummy-logo-5b-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 8953,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "people-5-1.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/people-5-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 56389,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-business-executives-smiling-VHTAHMU"
+        },
+        {
+            "filename": "hero-04.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/hero-04-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/service-single.json",
+                    "name": "Service Single"
+                }
+            ],
+            "filesize": 209380,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/detergents-and-cleaning-accessories-in-pastel-colo-M49VYFQ"
+        },
+        {
+            "filename": "hero-12.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/hero-12-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-single.json",
+                    "name": "Service Single"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 191286,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/concept-for-home-cleaning-services-JZSN5UV"
+        },
+        {
+            "filename": "hero-6-1.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/hero-6-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 126198,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-cleaning-service-woman-worker-cleaning-in-li-NQ3H3C6"
+        },
+        {
+            "filename": "hero-3-1.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/hero-3-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 146129,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/housekeeping-concept-washing-machine-and-ironing-b-PV5KCVR"
+        },
+        {
+            "filename": "hero-7-1.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/hero-7-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 111948,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-service-repairman-is-working-indoors-in-t-LELTWLA"
+        },
+        {
+            "filename": "hero-5.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/hero-5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 244229,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/industrial-mountaineering-worker-cleaning-window-o-UKLYNNQ"
+        },
+        {
+            "filename": "hero-1.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/hero-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 174804,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-service-worker-greeting-the-client-N9RZ9LL"
+        },
+        {
+            "filename": "hero-6.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/hero-6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 126198,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-cleaning-service-woman-worker-cleaning-in-li-NQ3H3C6"
+        },
+        {
+            "filename": "elemen-3.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/elemen-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 8841,
+            "dimensions": [
+                622,
+                671
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-PQMG82E"
+        },
+        {
+            "filename": "hero-4.jpg",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/hero-4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 236632,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/professional-cleaning-service-3C6SUPK"
+        },
+        {
+            "filename": "elemen-4.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/elemen-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 10953,
+            "dimensions": [
+                653,
+                805
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-PQMG82E"
+        },
+        {
+            "filename": "icon-1-1.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/icon-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 1867,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/124-cleaning-icons-FLYWZGX"
+        },
+        {
+            "filename": "icon-2-1.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/icon-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 1938,
+            "dimensions": [
+                64,
+                65
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/124-cleaning-icons-FLYWZGX"
+        },
+        {
+            "filename": "icon-3-1.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/icon-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 1711,
+            "dimensions": [
+                64,
+                65
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/124-cleaning-icons-FLYWZGX"
+        },
+        {
+            "filename": "hero-12-crop.png",
+            "thumbnail_url": "http:\/\/kittwo.rudhisasmito.com\/kiji\/wp-content\/uploads\/sites\/12\/2022\/08\/hero-12-crop.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 462457,
+            "dimensions": [
+                700,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/concept-for-home-cleaning-services-JZSN5UV"
+        }
+    ]
+}
